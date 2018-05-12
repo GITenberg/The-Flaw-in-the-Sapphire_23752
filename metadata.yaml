@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26013'
     url: http://www.gutenberg.org/2009/agents/26013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23752#The-Flaw-in-the-Sapphire
 gutenberg_issued: '2007-12-06'
 gutenberg_type: Text
 identifiers:
